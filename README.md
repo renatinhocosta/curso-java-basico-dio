@@ -3,14 +3,10 @@ Repositorios para exemplos e exercicios da DIO
 
 Codigo Calculo com impressão de Numero e Média 
 
-------------------------------------------------------------------------------------
-
-
 
 package ExerciciosDio;
 
 import java.util.Scanner;
-
 
 public class MaiorMedia {
 
